@@ -1,5 +1,4 @@
 <?php
-include('../module/hakodate.php');
 $idArray = ['yoichiro', 'rsk0315'];
 $datasets = [];
 foreach($idArray as $j => $id){
